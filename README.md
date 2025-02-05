@@ -1,2 +1,2 @@
 # Database
-# This is Demo Work of Databases Which can be Applied on All different type of DBMS System Like (MSSQl, MySql & Posrgresql) also.
+# This is a Demo Work of Databases That can be Applied to All different DBMS systems like (MSSQL, MySql & Postgreesql).
